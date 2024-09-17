@@ -1,37 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+AskThisWebsiteAnything :
+A web-based platform that allows users to ask questions and receive answers in real-time using integrated AI technologies.
 
-## Getting Started
+Table of Contents
+- Overview
+- Features
+- Getting Started
+ - Prerequisites
+ - Installation
+- Usage
+- Contributing
+- Contact
 
-First, run the development server:
+Overview: 
+AskThisWebsiteAnything is a user-friendly web application that enables users to interact with AI models and ask questions about any topic. The project integrates modern front-end and back-end technologies to provide an intuitive and responsive user experience.
 
-```bash
+Features
+> Real-time AI Responses: Get instant answers to your queries powered by AI.
+> Interactive UI: An engaging and responsive interface built with modern web technologies.
+> Easy Deployment: Quickly set up the project locally or deploy it to the cloud.
+> Customizable Components: Modify components to suit your requirements, including theming and styling.
+
+Getting Started
+> Prerequisites
+> Before you begin, ensure you have met the following requirements:
+  > Node.js and npm/yarn installed on your machine.
+  > A modern web browser (e.g., Chrome, Firefox) for testing.
+  > Basic knowledge of TypeScript, React, and web development.
+
+Installation
+> To set up the project locally, follow these steps:
+- Clone the Repository:
+- git clone https://github.com/janhvipandya/askthiswebsiteanything.git
+- cd askthiswebsiteanything
+
+> Install Dependencies
+npm install
+# or if using yarn
+yarn install
+
+> Start the Development Server
 npm run dev
-# or
+# or if using yarn
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Open Your Browser: Navigate to http://localhost:3000 to view the application
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Usage
+- Open the application in your browser.
+- Enter your question in the input box.
+- Click the submit button or press "Enter" to get an answer.
+- Explore additional features like refining questions, browsing previous answers, and more.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Contributing
+We welcome contributions to enhance the functionality and features of AskThisWebsiteAnything. If you are interested in contributing, please follow these steps:
 
-## Learn More
+Fork the Repository.
+- Create a Branch: git checkout -b feature/YourFeatureName
+- Commit Changes: git commit -m 'Add your feature here'
+- Push to the Branch: git push origin feature/YourFeatureName
+- Create a Pull Request.
 
-To learn more about Next.js, take a look at the following resources:
+Contact
+For any questions, suggestions, or feedback, feel free to reach out:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> Name: Janhvi Pandya
+> GitHub: janhvipandya
+> Email: janhvipandya01@gmail.com
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# askthiswebsiteanything
